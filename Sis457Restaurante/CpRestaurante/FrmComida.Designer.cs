@@ -38,9 +38,6 @@
             this.imglComidas = new System.Windows.Forms.ImageList(this.components);
             this.btnCambio = new System.Windows.Forms.Button();
             this.lblComida = new System.Windows.Forms.Label();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -48,12 +45,12 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("CommercialScript BT", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.Control;
             this.label1.Location = new System.Drawing.Point(190, 9);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(192, 55);
+            this.label1.Size = new System.Drawing.Size(221, 55);
             this.label1.TabIndex = 0;
             this.label1.Text = "Comidas";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -140,54 +137,15 @@
             this.lblComida.Size = new System.Drawing.Size(200, 200);
             this.lblComida.TabIndex = 10;
             // 
-            // button2
-            // 
-            this.button2.Image = global::CpRestaurante.Properties.Resources.cancel;
-            this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button2.Location = new System.Drawing.Point(434, 228);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(107, 42);
-            this.button2.TabIndex = 8;
-            this.button2.Text = "Cancelar";
-            this.button2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
-            // button1
-            // 
-            this.button1.Image = global::CpRestaurante.Properties.Resources._new;
-            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.Location = new System.Drawing.Point(303, 228);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(112, 42);
-            this.button1.TabIndex = 7;
-            this.button1.Text = "Agregar";
-            this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // button3
-            // 
-            this.button3.Image = global::CpRestaurante.Properties.Resources.icons8_restaurante_32__1_1;
-            this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button3.Location = new System.Drawing.Point(435, 287);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(106, 38);
-            this.button3.TabIndex = 83;
-            this.button3.Text = "Inicio";
-            this.button3.UseVisualStyleBackColor = true;
-            // 
             // FrmComida
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::CpRestaurante.Properties.Resources.Rustic_Restaurant_Tables_300x300;
             this.ClientSize = new System.Drawing.Size(553, 337);
-            this.Controls.Add(this.button3);
             this.Controls.Add(this.btnCambio);
             this.Controls.Add(this.lblComida);
             this.Controls.Add(this.comboBox1);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.numericUpDown1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -209,12 +167,9 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.NumericUpDown numericUpDown1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.ImageList imglComidas;
         private System.Windows.Forms.Label lblComida;
         private System.Windows.Forms.Button btnCambio;
-        private System.Windows.Forms.Button button3;
     }
 }

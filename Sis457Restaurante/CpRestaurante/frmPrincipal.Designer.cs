@@ -39,6 +39,7 @@
             this.btnEmpleado = new System.Windows.Forms.Button();
             this.btnFactura = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
+            this.btnComida = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -151,7 +152,7 @@
             // label2
             // 
             this.label2.BackColor = System.Drawing.Color.Transparent;
-            this.label2.Font = new System.Drawing.Font("CommercialScript BT", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Kunstler Script", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.Control;
             this.label2.Location = new System.Drawing.Point(265, 2);
             this.label2.Margin = new System.Windows.Forms.Padding(7, 0, 7, 0);
@@ -161,12 +162,26 @@
             this.label2.Text = "Restaurante M P";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // btnComida
+            // 
+            this.btnComida.BackColor = System.Drawing.Color.Gold;
+            this.btnComida.Image = global::CpRestaurante.Properties.Resources.icons8_cubiertos_32;
+            this.btnComida.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnComida.Location = new System.Drawing.Point(40, 367);
+            this.btnComida.Name = "btnComida";
+            this.btnComida.Size = new System.Drawing.Size(169, 46);
+            this.btnComida.TabIndex = 87;
+            this.btnComida.Text = "Base de comidas";
+            this.btnComida.UseVisualStyleBackColor = false;
+            this.btnComida.Click += new System.EventHandler(this.btnComida_Click);
+            // 
             // frmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::CpRestaurante.Properties.Resources.ca02fe3b342e97d46c23ec9b4a0078c1;
             this.ClientSize = new System.Drawing.Size(963, 454);
+            this.Controls.Add(this.btnComida);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.btnFactura);
             this.Controls.Add(this.btnEmpleado);
@@ -178,7 +193,6 @@
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmPrincipal";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
@@ -204,6 +218,7 @@
         private System.Windows.Forms.Button btnEmpleado;
         private System.Windows.Forms.Button btnFactura;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button btnComida;
     }
 }
 

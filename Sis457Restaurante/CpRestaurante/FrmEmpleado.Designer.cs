@@ -50,7 +50,6 @@
             this.lblDescripcion = new System.Windows.Forms.Label();
             this.lblCodigo = new System.Windows.Forms.Label();
             this.pnlAcciones = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
             this.btnCerrar = new System.Windows.Forms.Button();
             this.btnEliminar = new System.Windows.Forms.Button();
             this.btnEditar = new System.Windows.Forms.Button();
@@ -300,7 +299,6 @@
             // pnlAcciones
             // 
             this.pnlAcciones.BackColor = System.Drawing.Color.Transparent;
-            this.pnlAcciones.Controls.Add(this.button1);
             this.pnlAcciones.Controls.Add(this.btnCerrar);
             this.pnlAcciones.Controls.Add(this.btnEliminar);
             this.pnlAcciones.Controls.Add(this.btnEditar);
@@ -310,18 +308,6 @@
             this.pnlAcciones.Name = "pnlAcciones";
             this.pnlAcciones.Size = new System.Drawing.Size(686, 66);
             this.pnlAcciones.TabIndex = 13;
-            // 
-            // button1
-            // 
-            this.button1.Image = global::CpRestaurante.Properties.Resources.icons8_restaurante_32__1_1;
-            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.Location = new System.Drawing.Point(563, 10);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(106, 38);
-            this.button1.TabIndex = 83;
-            this.button1.Text = "Inicio";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // btnCerrar
             // 
@@ -385,7 +371,7 @@
             // 
             this.gbxLista.BackColor = System.Drawing.Color.Transparent;
             this.gbxLista.Controls.Add(this.dgvLista);
-            this.gbxLista.ForeColor = System.Drawing.SystemColors.Control;
+            this.gbxLista.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.gbxLista.Location = new System.Drawing.Point(7, 104);
             this.gbxLista.Margin = new System.Windows.Forms.Padding(4);
             this.gbxLista.Name = "gbxLista";
@@ -503,6 +489,5 @@
         private System.Windows.Forms.ErrorProvider erpCargo;
         private System.Windows.Forms.TextBox txtTelefono;
         private System.Windows.Forms.TextBox txtCargo;
-        private System.Windows.Forms.Button button1;
     }
 }

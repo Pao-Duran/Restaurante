@@ -64,7 +64,6 @@
             this.checkBox8 = new System.Windows.Forms.CheckBox();
             this.checkBox9 = new System.Windows.Forms.CheckBox();
             this.checkBox10 = new System.Windows.Forms.CheckBox();
-            this.button1 = new System.Windows.Forms.Button();
             this.pictureBox12 = new System.Windows.Forms.PictureBox();
             this.label14 = new System.Windows.Forms.Label();
             this.checkBox11 = new System.Windows.Forms.CheckBox();
@@ -455,18 +454,6 @@
             this.checkBox10.UseVisualStyleBackColor = true;
             this.checkBox10.CheckedChanged += new System.EventHandler(this.checkBox10_CheckedChanged);
             // 
-            // button1
-            // 
-            this.button1.Image = global::CpRestaurante.Properties.Resources.icons8_restaurante_32__1_1;
-            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.Location = new System.Drawing.Point(909, 494);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(106, 38);
-            this.button1.TabIndex = 82;
-            this.button1.Text = "Inicio";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
             // pictureBox12
             // 
             this.pictureBox12.Image = global::CpRestaurante.Properties.Resources.images1;
@@ -508,7 +495,6 @@
             this.Controls.Add(this.checkBox11);
             this.Controls.Add(this.label14);
             this.Controls.Add(this.pictureBox12);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.checkBox10);
             this.Controls.Add(this.checkBox9);
             this.Controls.Add(this.checkBox8);
@@ -601,7 +587,6 @@
         private System.Windows.Forms.CheckBox checkBox8;
         private System.Windows.Forms.CheckBox checkBox9;
         private System.Windows.Forms.CheckBox checkBox10;
-        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.PictureBox pictureBox12;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.CheckBox checkBox11;

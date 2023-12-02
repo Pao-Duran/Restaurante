@@ -1,0 +1,12 @@
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\CadRestaurante\bin\Release\CadRestaurante.dll.config
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\CadRestaurante\bin\Release\CadRestaurante.dll
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\CadRestaurante\bin\Release\CadRestaurante.pdb
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\CadRestaurante\bin\Release\EntityFramework.dll
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\CadRestaurante\bin\Release\EntityFramework.SqlServer.dll
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\CadRestaurante\bin\Release\EntityFramework.xml
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\CadRestaurante\bin\Release\EntityFramework.SqlServer.xml
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\CadRestaurante\obj\Release\CadRestaurante.csproj.AssemblyReference.cache
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\CadRestaurante\obj\Release\CadRestaurante.csproj.CoreCompileInputs.cache
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\CadRestaurante\obj\Release\CadRestaurante.csproj.CopyComplete
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\CadRestaurante\obj\Release\CadRestaurante.dll
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\CadRestaurante\obj\Release\CadRestaurante.pdb

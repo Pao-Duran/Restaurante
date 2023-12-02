@@ -1,0 +1,15 @@
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\ClnRestaurante\bin\Release\ClnRestaurante.dll.config
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\ClnRestaurante\bin\Release\ClnRestaurante.dll
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\ClnRestaurante\bin\Release\ClnRestaurante.pdb
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\ClnRestaurante\bin\Release\CadRestaurante.dll
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\ClnRestaurante\bin\Release\EntityFramework.dll
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\ClnRestaurante\bin\Release\EntityFramework.SqlServer.dll
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\ClnRestaurante\bin\Release\CadRestaurante.pdb
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\ClnRestaurante\bin\Release\CadRestaurante.dll.config
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\ClnRestaurante\bin\Release\EntityFramework.xml
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\ClnRestaurante\bin\Release\EntityFramework.SqlServer.xml
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\ClnRestaurante\obj\Release\ClnRestaurante.csproj.AssemblyReference.cache
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\ClnRestaurante\obj\Release\ClnRestaurante.csproj.CoreCompileInputs.cache
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\ClnRestaurante\obj\Release\ClnRestaurante.csproj.CopyComplete
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\ClnRestaurante\obj\Release\ClnRestaurante.dll
+E:\Restaurante-micaela\sis457_Restaurante_MP\Sis457Restaurante\ClnRestaurante\obj\Release\ClnRestaurante.pdb

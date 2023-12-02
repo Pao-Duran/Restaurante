@@ -54,6 +54,11 @@ namespace CpRestaurante
         {
 
         }
+
+        private void btnComida_Click(object sender, EventArgs e)
+        {
+            new FrmComida().ShowDialog();
+        }
     }
 }
 
